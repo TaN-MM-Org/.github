@@ -25,8 +25,10 @@ numbers.
 | [**hamop**](https://github.com/TaN-MM-Org/hamop) | One tight-binding Hamiltonian, every observable: bands, optics, topology, transport, magnetic fields — strictly consistent. |
 | [**fabtwin**](https://github.com/TaN-MM-Org/fabtwin) | Learned fabrication-process twins and yield-aware inverse design of multilayer optics, with exact adjoint gradients. |
 
-All packages install from PyPI (`pip install <name>`), run on NumPy/SciPy
-cores, and are archived release-by-release on Zenodo with citable DOIs.
+Packages install from PyPI (`pip install <name>`), run on NumPy/SciPy
+cores, and are archived release-by-release on Zenodo with citable
+DOIs. (vacspin, the newest, has its first PyPI and Zenodo archives in
+progress.)
 
 ## Three rules every repository follows
 
