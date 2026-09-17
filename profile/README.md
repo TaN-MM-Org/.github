@@ -27,8 +27,7 @@ numbers.
 
 Packages install from PyPI (`pip install <name>`), run on NumPy/SciPy
 cores, and are archived release-by-release on Zenodo with citable
-DOIs. (vacspin, the newest, has its first PyPI and Zenodo archives in
-progress.)
+DOIs.
 
 ## Three rules every repository follows
 
