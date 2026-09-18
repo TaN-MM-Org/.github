@@ -54,3 +54,14 @@ tracker; a docstring that left a unit or a convention unclear is
 treated as a documentation bug, not user error. Wrong-number reports
 are the most valuable issues research software can receive and are
 handled with priority.
+
+## Sponsor this work
+
+Everything here is open source under Apache-2.0 and always will be.
+If these tools save your lab time and you would like to support their
+development, you can sponsor the work on
+[Patreon](https://www.patreon.com/u40002728) — it funds the
+maintenance, the literature verification behind every shipped
+constant, and the test infrastructure that keeps the releases honest.
+Citing the tools in your publications (each repository carries
+citation metadata and a Zenodo DOI) helps just as much.
