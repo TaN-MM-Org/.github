@@ -24,6 +24,13 @@ numbers.
 | [**ramansep**](https://github.com/TaN-MM-Org/ramansep) | Strain, carrier density and temperature separated in Raman maps of 2D materials, with honest error bars. |
 | [**hamop**](https://github.com/TaN-MM-Org/hamop) | One tight-binding Hamiltonian, every observable: bands, optics, topology, transport, magnetic fields — strictly consistent. |
 | [**fabtwin**](https://github.com/TaN-MM-Org/fabtwin) | Learned fabrication-process twins and yield-aware inverse design of multilayer optics, with exact adjoint gradients. |
+| [**labplan**](https://github.com/TaN-MM-Org/labplan) | Plan, fit, and certify calibrations of any user-supplied model: Fisher planning, D-optimal designs, conformal error bars, audit-ready records. NumPy only. |
+
+Every package also carries a `lab` layer — plan a measurement before
+taking it, know how many repeats a target error bar costs, and
+calibrate from your own data with honest uncertainties. **labplan**
+is that pattern extracted into a standalone engine that works with
+any forward model you can write as a Python function.
 
 Packages install from PyPI (`pip install <name>`), run on NumPy/SciPy
 cores, and are archived release-by-release on Zenodo with citable
