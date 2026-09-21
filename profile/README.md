@@ -24,7 +24,7 @@ numbers.
 | [**ramansep**](https://github.com/TaN-MM-Org/ramansep) | Strain, carrier density and temperature separated in Raman maps of 2D materials, with honest error bars. |
 | [**hamop**](https://github.com/TaN-MM-Org/hamop) | One tight-binding Hamiltonian, every observable: bands, optics, topology, transport, magnetic fields — strictly consistent. |
 | [**fabtwin**](https://github.com/TaN-MM-Org/fabtwin) | Learned fabrication-process twins and yield-aware inverse design of multilayer optics, with exact adjoint gradients. |
-| [**fracpll**](https://github.com/TaN-MM-Org/fracpll) | Charge-pump fractional-N PLL design from measured pieces: loop stability with validity refusals, exact MASH sequences and spectra, closed-loop phase noise and jitter, lock transients on measured tuning curves. |
+| [**fracpll**](https://github.com/TaN-MM-Org/fracpll) | Charge-pump fractional-N PLL design from measured pieces: edge-accurate loop simulation (PFD reset, dead zone, mismatch, cycle slips), exact stability at any bandwidth, exact MASH spectra and spurs, closed-loop phase noise and jitter on measured tuning curves. |
 | [**lockkernel**](https://github.com/TaN-MM-Org/lockkernel) | Exact thresholds, exponents and amplitudes of synchronization transitions from the locking kernel — and fits of measured synchronization branches with error bars. |
 | [**labplan**](https://github.com/TaN-MM-Org/labplan) | Plan, fit, and certify calibrations of any user-supplied model: Fisher planning, D-optimal designs, conformal error bars, audit-ready records. NumPy only. |
 
