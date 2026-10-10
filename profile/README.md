@@ -36,8 +36,8 @@ layer on its own.
 Each package installs from PyPI (`pip install <name>`). All are
 built on NumPy, most also on SciPy, and a few add a small extra
 package (for example mpmath in lockkernel); heavier tools such as
-QuTiP, JAX or PyTorch are optional extras. Releases are archived on
-Zenodo, and each repository carries a citable Zenodo DOI.
+QuTiP, JAX or PyTorch are optional extras. Every release is archived
+on Zenodo with its own citable DOI.
 
 ## How the tools are checked
 
