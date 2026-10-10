@@ -36,8 +36,8 @@ layer on its own.
 Each package installs from PyPI (`pip install <name>`). All are
 built on NumPy, most also on SciPy, and a few add a small extra
 package (for example mpmath in lockkernel); heavier tools such as
-QuTiP, JAX or PyTorch are optional extras. Every release is archived
-on Zenodo with its own citable DOI.
+QuTiP, JAX or PyTorch are optional extras. Releases are archived on
+Zenodo, and each repository carries a citable Zenodo DOI.
 
 ## How the tools are checked
 
@@ -58,6 +58,14 @@ language, with worked examples whose printed output is checked by
 running them. Checking each README line by line against its code also
 found real bugs. Each one is fixed, with a new test, in a patch release
 of every package, and each release's notes and changelog list them.
+
+In October 2026 every package got a new release. Each one adds tools
+for a lab's own data, such as readers for instrument text exports,
+goodness-of-fit tests and error propagation. Each one also fixes bugs
+found in a fresh audit, and its changelog gives the numbers before and
+after every fix. The citations in all twelve packages were then
+checked against the original papers, and the wrong details found were
+corrected.
 
 ## Support
 
